@@ -1,9 +1,13 @@
 Project Name : HVAC INVENTORY MANAGEMENT SYSTEM WITH C# .NET
 
 โฟลเดอร์ Project_HVAC.zip เอาไว้เปิดโปรแกรม HVAC Inventory Management System
+
 โฟลเดอร์จะมีไฟล์ ชื่อ HVACInventoryManagementSystem.exe กดเปิดใช้งานโปรแกรมได้เลยครับ
+
 Username กับ Password สำหรับเข้าโปรแกรม
+
 Username : admin
+
 Password : admin123
 
 วิธีการใช้งานระบบ
